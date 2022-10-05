@@ -2,6 +2,8 @@
 
 /**
  * _size_line - size of the line
+ * @line: line to read
+ * Return: line
  */
 int _size_line(char *line)
 {

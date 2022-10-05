@@ -2,6 +2,7 @@
 
 /**
  * free_l - free list
+ * @stack: head
  */
 void free_l(stack_t **stack)
 {
