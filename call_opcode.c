@@ -2,8 +2,6 @@
 
 /**
  * func - pointers to functions
- * @tokens: arguments
- * Return: function
  */
 
 void (*func(char *tokens))(stack_t **stack, unsigned int num_line)
