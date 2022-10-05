@@ -2,8 +2,6 @@
 
 /**
  * _error - manage the error
- * @stack: head
- * @n: integer
  */
 void _error(stack_t **stack, unsigned int n)
 {
